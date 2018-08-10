@@ -1,5 +1,5 @@
 # person.rb
-class Dog
+class Person
   def initialize (name,breed = "Mutt")
     @name = name
     @breed = breed
